@@ -44,7 +44,7 @@ bottom) which is my ideal position.
 If you simply wish to import the case into your 3D printing software, try the
 Thingiverse page instead, which provides the STL files for use:
 
-* Karl's Lily58 Keyboard Case @ Thingiverse: <TKTKTKTK>
+* Karl's Lily58 Keyboard Case @ Thingiverse: <https://www.thingiverse.com/thing:5422861>
 
 ## Usage
 

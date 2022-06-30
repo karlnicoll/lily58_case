@@ -4,8 +4,7 @@
 
 This repository contains the source files for my own 3D printed case for the
 [Lily58 Pro](https://github.com/kata0510/Lily58) keyboard. It is based on the
-"Lily58 Case With Wrist Rest" by user Willianr on Thingiverse
-([link to original](https://www.thingiverse.com/thing:4706649)).
+"Lily58 Case With Wrist Rest" by user Willianr on Thingiverse.
 
 ## Features
 
